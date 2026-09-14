@@ -1,0 +1,21 @@
+label,stat_1,stat_2,stat_3,p.value
+__Sex__,NA,NA,NA,<0.001
+Female,345 (71%),941 (81%),188 (92%),NA
+Male,143 (29%),224 (19%),17 (8.3%),NA
+__Age (years)__,38.8 (10.7),40.3 (10.7),40.8 (10.4),0.016
+__Baseline BMI (kg/m²)__,44.7 (5.4),44.9 (5.5),44.2 (4.6),0.2
+__Baseline weight (kg)__,122.5 (21.5),120.5 (20.7),116.5 (16.8),0.002
+__Baseline body fat percentage (%)__,47.0 (6.2),48.4 (5.6),47.6 (4.8),<0.001
+__Baseline predicted muscle mass (kg)__,61.3 (14.7),58.5 (13.1),57.6 (9.7),<0.001
+__Baseline fat-free mass (kg)__,64.7 (15.4),61.8 (13.7),60.7 (10.1),<0.001
+__Baseline skeletal muscle mass index (kg/m²)__,10.2 (2.0),10.0 (1.8),10.0 (1.4),0.027
+__Baseline appendicular skeletal muscle mass (kg)__,28.5 (8.2),27.0 (7.3),26.5 (5.3),<0.001
+__Diabetes__,NA,NA,NA,<0.001
+No,447 (92%),929 (80%),181 (88%),NA
+Yes,41 (8.4%),236 (20%),24 (12%),NA
+__Hypothyroidism__,NA,NA,NA,0.8
+No,401 (82%),946 (81%),164 (80%),NA
+Yes,87 (18%),219 (19%),41 (20%),NA
+__Hypertension__,NA,NA,NA,0.7
+No,403 (83%),946 (81%),164 (80%),NA
+Yes,85 (17%),219 (19%),41 (20%),NA

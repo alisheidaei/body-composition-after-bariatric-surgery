@@ -1,0 +1,16 @@
+# Confidential data
+data/*.dta
+data/*.csv
+data/*.xlsx
+data/*.rds
+
+# R and IDE files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+

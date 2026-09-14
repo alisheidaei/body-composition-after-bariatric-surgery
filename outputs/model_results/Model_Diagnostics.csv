@@ -1,0 +1,9 @@
+Outcome,n_observations,n_patients,singular_fit,convergence_messages
+Weight,8270,1858,FALSE,
+BMI,8270,1858,FALSE,
+TWL,8270,1858,FALSE,
+FATP,8270,1858,FALSE,
+PMM,8270,1858,FALSE,
+FFM,8270,1858,FALSE,
+SMMI,8270,1858,FALSE,
+ASM,8270,1858,FALSE,
