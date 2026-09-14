@@ -1,16 +1,39 @@
-# Confidential data
-data/*.dta
-data/*.csv
-data/*.xlsx
-data/*.rds
+# Patient-level and confidential data
+data/*
+!data/README.md
 
-# R and IDE files
+# Raw statistical-data formats
+*.dta
+*.sav
+*.sas7bdat
+
+# R objects that may contain patient-level data
+*.RData
+*.Rdata
+*.rds
+*.rda
+
+# Local environment variables and credentials
+.Renviron
+.env
+.env.*
+
+# RStudio files
 .Rhistory
-.RData
 .Ruserdata
 .Rproj.user/
+
+# renv local package library
+renv/library/
+renv/staging/
+
+# Temporary and log files
+*.log
+*.tmp
+*~
+~$*
 
 # Operating-system files
 .DS_Store
 Thumbs.db
-
+desktop.ini
