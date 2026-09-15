@@ -1,6 +1,5 @@
 # Data directory
 
-Place `Final Clean Data.dta` here for local analysis. The clinical dataset must not be committed to a public repository.
+The study dataset is not included in this repository. Institutional policy prohibits sharing these data, including de-identified data.
 
-The expected variables are checked automatically in `R/data_preparation.R`. If the data are stored elsewhere, define the `BIA_DATA_PATH` environment variable before running `run_analysis.R`.
-
+The required variables are validated automatically in `R/data_preparation.R`. The analysis can only be reproduced by authorized users who have approved access to the original dataset.
