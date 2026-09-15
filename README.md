@@ -90,9 +90,3 @@ The workflow creates publication-ready tables and figures plus aggregated source
 
 The patient-level dataset is not included because it may contain protected or confidential clinical information. Do not commit the `.dta` file, exported patient-level records, fitted model objects, credentials, or local absolute paths.
 
-## Important verification before release
-
-- Confirm that PMM represents *predicted muscle mass* in the BIA device export and manuscript.
-- Compare all regenerated estimates with the final manuscript tables and figures.
-- Review sparse follow-up cells and all model diagnostic warnings.
-- Confirm institutional requirements for sharing aggregated source data.
